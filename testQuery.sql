@@ -1,1 +1,0 @@
-SELECT lmday1,lmday2,lmtime1,lmtime2 FROM inventory;
